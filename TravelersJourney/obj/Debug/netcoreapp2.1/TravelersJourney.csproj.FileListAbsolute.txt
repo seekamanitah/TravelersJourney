@@ -1,0 +1,10 @@
+/Users/macuser/Projects/TravelersJourney/TravelersJourney/bin/Debug/netcoreapp2.1/TravelersJourney.deps.json
+/Users/macuser/Projects/TravelersJourney/TravelersJourney/bin/Debug/netcoreapp2.1/TravelersJourney.runtimeconfig.json
+/Users/macuser/Projects/TravelersJourney/TravelersJourney/bin/Debug/netcoreapp2.1/TravelersJourney.runtimeconfig.dev.json
+/Users/macuser/Projects/TravelersJourney/TravelersJourney/bin/Debug/netcoreapp2.1/TravelersJourney.dll
+/Users/macuser/Projects/TravelersJourney/TravelersJourney/bin/Debug/netcoreapp2.1/TravelersJourney.pdb
+/Users/macuser/Projects/TravelersJourney/TravelersJourney/obj/Debug/netcoreapp2.1/TravelersJourney.csproj.CoreCompileInputs.cache
+/Users/macuser/Projects/TravelersJourney/TravelersJourney/obj/Debug/netcoreapp2.1/TravelersJourney.AssemblyInfoInputs.cache
+/Users/macuser/Projects/TravelersJourney/TravelersJourney/obj/Debug/netcoreapp2.1/TravelersJourney.AssemblyInfo.cs
+/Users/macuser/Projects/TravelersJourney/TravelersJourney/obj/Debug/netcoreapp2.1/TravelersJourney.dll
+/Users/macuser/Projects/TravelersJourney/TravelersJourney/obj/Debug/netcoreapp2.1/TravelersJourney.pdb
