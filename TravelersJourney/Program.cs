@@ -3,6 +3,11 @@
 
 namespace TravelersJourney
 {
+    
+    public class Berserker
+    {
+        
+    }    
 
     class ConsoleJourney
     {
